@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil 😁
+## Welcome to my profile! 😁
 
  <div>
    <a href="https://github.com/IsabellaPassarelli">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Canais de contato!
+### Let's connect!
  
 <div>
   <a href="https://instagram.com/passarelli.__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
